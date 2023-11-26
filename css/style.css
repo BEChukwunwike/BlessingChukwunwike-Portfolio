@@ -1,0 +1,12 @@
+* {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #bec7cf !important;
+}
+
+.bg-teal{
+    background-color: #008080 !important;
+}
+
+.active {
+    background-color: #2C3E50 !important; /* Change this to your desired color */
+}
