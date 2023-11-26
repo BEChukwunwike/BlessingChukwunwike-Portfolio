@@ -21,10 +21,10 @@ I'm an aspiring web developer based in Abuja, passionate about crafting beautifu
 I'm actively participating in a 100-day coding challenge, where each day presents a new opportunity to learn, code, and grow. The challenge has been an incredible motivator, pushing me to consistently improve and build upon my skills.
 
 ## Progress Update:
-Day 1-4: HTML fundamentals
-Day 5-24: CSS fundamentals
-Day 25-32: Learning and applying Bootstrap for responsive web design
-Day 33: Started building my portfolio website
+Day 1-4: HTML fundamentals  
+Day 5-24: CSS fundamentals  
+Day 25-32: Learning and applying Bootstrap for responsive web design  
+Day 33: Started building my portfolio website  
 
 ## Projects
 Explore the projects I've been working on during this learning journey. From simple static pages to more interactive designs, each project represents a step forward in my progression toward becoming a fullstack developer.
