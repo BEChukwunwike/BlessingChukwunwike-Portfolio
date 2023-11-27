@@ -5,9 +5,9 @@
 
 body {
     background-image: url(../images/8751584.jpg);
-}
-.bg-teal{
-    background-color: #008080 !important;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
 }
 
 .active {
@@ -15,5 +15,6 @@ body {
 }
 
 .fs-3 {
-    
+    font-size: 3em;
+    font-weight: 1000;
 }
