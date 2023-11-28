@@ -21,5 +21,11 @@
 
 .text-center {
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 2.5em;
+    text-align: left;
+}
+
+.card {
+    background-color: #2C3E50 !important;
+    color: #bec7cf !important;
 }
