@@ -3,10 +3,10 @@
     color: #bec7cf !important;
 }
 
-body {
-    background-image: url(../images/8751584.jpg);
+.custom-bg {
+    background-image: url(../images/8751584.jpg) !important;
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: repeat !important;
     background-position: center center;
 }
 
@@ -17,4 +17,9 @@ body {
 .fs-3 {
     font-size: 3em;
     font-weight: 1000;
+}
+
+.text-center {
+    font-weight: bolder;
+    font-size: 2em;
 }
