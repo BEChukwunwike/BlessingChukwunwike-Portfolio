@@ -45,3 +45,7 @@ a {
     background-color: #2C3E50 !important;
 
 }
+.btn:hover {
+    background-color: #34495e !important; /* Change the background color on hover */
+    color: #fff !important; /* Change the text color on hover */
+}
