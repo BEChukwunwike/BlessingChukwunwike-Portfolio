@@ -43,8 +43,9 @@ a {
 
 .btn {
     background-color: #2C3E50 !important;
-
+    font-size: 20px;
 }
+
 .btn:hover {
     background-color: #34495e !important; /* Change the background color on hover */
     color: #fff !important; /* Change the text color on hover */
